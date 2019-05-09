@@ -5,7 +5,8 @@ public class GitTest {
         System.out.println("aaa");
         test();
     }
-    public static void  test(){
+    private static void  test(){
         System.out.println("BBB");
+        System.out.println("修改了一下");
     }
 }
